@@ -5,7 +5,7 @@ Summary:	vmchooser
 
 Group:		application
 License:	GPL
-URL:		https://github.com/bingch/vmchooser
+URL:		https://gitlab.com/bingch/vmchooser
 Source0:	vmchooser-%{version}.tar.gz
 BuildRoot:	%(mktemp -ud %{_tmppath}/%{name}-%{version}-%{release}-XXXXXX)
 
